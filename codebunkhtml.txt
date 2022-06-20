@@ -1,0 +1,493 @@
+<html>
+<head>
+    <title>FoodVilla Home</title>
+</head>
+
+
+
+<body>
+<header>
+<h1>welcome to Aboutus</h1>
+<hr>
+</header>
+<nav>
+<a href="Home.html">Home</a>
+<a href="Login.html">Login</a>
+<usususus/a>
+16
+<ususususususususaususususususususaaususususususususaususususususususaaaMenua href="Aboutus.html">Aboutus</a>
+<a href="Menu.html">Menu</a>
+<a href="Gallary.html">Gallary</a>
+<a href="contactus.html">Contactus</a>
+</nav>
+<article>
+<p>
+    Our founders believed in simple principles, but they practiced them with unwavering dedication. Today, as we look to grow our presence and reach moremoremoremore guests, these values still show usususus the waywaywayway
+    
+</p>
+<h2>Honesty</h2>
+<p>We believe in building trust with our guests, employees and partners by conducting our business transparently andandandand ethically.</p>
+  
+<h2>Hard work</h2>
+    <p>We to delidelidelidelidelidelbelive theretheretherethere are no shortcuts to success. We work hard as a team togueststogueststotogueststogueststototo delight our guests which will in turn ensure our continued success.</p>
+
+
+    <h2>Hospitality</h2>
+
+    <p>For us, a guest is equivalent to God and we shall always extend him the greatest welcome and warmest service.</p>
+    
+    <h2h2h2h2h2h2h2h2h2h2h2h2h2h2h2h2>Hygiene</h2>
+   <p> Food is sacred. It is therefore our duty to keep our cuisine pure by following the most stringent hygiene standards in preparing and serving it.
+    Paradise is a socially responsible institution. We always strive to minimize energy usage, resource waste and environmental >Hygiene<. As responsible corporate citizens, we support several social causes and endeavor to create a lasting impact through our CSR initiatives</p>
+    
+    
+
+
+</article>
+<footer>
+
+All Rights Reserved..   &copy;  Trademark symbol  &trade;
+
+</footer>
+
+
+
+</body>
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+<html>
+<head>
+    <title>FoodVilla Home</title>
+</head>
+
+
+
+<body leftmargin=120>
+<header >
+    <img src="food.jpg" width="80%" height="20%">
+<h1>welcome to Food Villa</h1>
+<hr>
+</header>
+<nav>
+<a href="Home.html">Home</a>
+<a href="Login.html">Login</a>
+<a href="Aboutus.html">Aboutus</a>
+<a href="Menu.html">Menu</a>
+<a href="Gallary.html">Gallary</a>
+<a href="contactus.html">Contactus</a>
+</nav>
+<article>
+<h3>We Are specialised in following Areas</h3>
+<ul>
+    <li>Indian</li>
+    <li>Continental</li>
+    <li>Chainees</li>
+    <li>Deserts</li>
+</ul>
+
+<hr>
+<table border=1 bgcolor="orange" align="center" height=400px width=300px cellpadding=50 cellspacing=20>
+<tr bgcolor=yellow>
+<th>Slno</th>
+<th>Menu Name</th>
+<th>Price</th>
+</tr>
+
+
+<tr>
+<tr>
+    <td>1</td>
+    <td>Idly</td>
+    <td>Price</td>
+</tr>
+</tr>
+<tr>
+    <td>2</td>
+    <td>Dosa</td>
+    <td>100</td>
+</tr>
+</table>
+
+
+</article>
+<footer>
+
+All Rights Reserved..   &copy;  Trademark symbol  &trade;
+
+</footer>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<html>
+<head>
+    <title>FoodVilla Home</title>
+</head>
+
+
+
+<body>
+<header>
+<h1>welcome to Food Villa</h1>
+<hr>
+</header>
+<nav>
+<a href="Home.html">Home</a>
+<a href="Login.html">Login</a>
+<a href="Aboutus.html">Aboutus</a>
+<a href="Menu.html">Menu</a>
+<a href="Gallary.html">Gallary</a>
+<a href="contactus.html">Contactus</a>
+</nav>
+<article>
+<h1>Registration Page</h1> <hr>
+<fieldset>
+    <legend>Registration Page</legend>
+<form action="Home.html">
+<table>
+<tr>
+    <td><label>Enter Name : </label></td>
+    <td><input type="text" placeholder="Enter name" required autofocus pattern="[a-z]+"></td>
+</tr>
+
+<tr>
+    <td><label>Enter Password : </label></td>
+    <td><input type="password"></td>
+</tr>
+<tr>
+    <td><label>Enter ConfirmPassword : </label></td>
+    <td><input type="password"></td>
+</tr>
+<tr>
+    <td><label>Select Gender </label></td>
+    <td>M <input type="radio" name="g"> F <input type="radio" name="g"></td>
+</tr>
+
+<tr>
+    <td><label>Select DOB </label></td>
+    <td> <input type="date"> </td>
+</tr>
+
+<tr>
+    <td><label>Enter Email</label></td>
+    <td> <input type="email"> </td>
+</tr>
+
+<tr>
+    <td><label>Enter url</label></td>
+    <td> <input type="url"> </td>
+</tr>
+
+<tr>
+    <td><label>Enter number</label></td>
+    <td> <input type="number" max="20" min="4" step="2" value=6> </td>
+</tr>
+<tr>
+    <td><label>Enter Range</label></td>
+    <td> <input type="Range" max="20" min="4" step="2" value=6> </td>
+</tr>
+
+<tr>
+    <td><label>Enter month</label></td>
+    <td> <input type="month"> </td>
+</tr>
+
+<tr>
+    <td><label>Enter week</label></td>
+    <td> <input type="week"> </td>
+</tr>
+
+<tr>
+    <td><label>select color</label></td>
+    <td> <input type="color"> </td>
+</tr>
+
+<tr>
+    <td><label>select Nationality</label></td>
+    <td> <select multiple>
+<option>Indian</option>
+<option>UK</option>
+<option>US</option>
+<option>Others</option>       
+
+    </select> </td>
+</tr>
+
+<tr>
+    <td><label>Enter Description</label></td>
+    <td> <textarea rows=5 cols=50></textarea>   </td>
+</tr>
+
+<tr>
+    <td><label>Select Mode Communication</label></td>
+    <td> Email<input type="checkbox"> SMS<input type="checkbox">Letter<input type="checkbox"></td>
+</tr>
+<input type="submit">
+</table>
+
+
+</form>
+</fieldset>
+</article>
+<footer>
+
+All Rights Reserved..   &copy;  Trademark symbol  &trade;
+
+</footer>
+
+
+
+</body>
+
+
+
+</html>
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+divdiv{
+    color:yellow;
+    background-color: steelblue;
+    margin: 300px;
+    padding:200px;
+    width: 300px;
+    height: 50px;
+    border: 10px solid red;
+    border-radius: 300px;
+    box-shadow: rgb(110, 110, 110) 70px 50px;
+    transition: 5s;
+    
+}
+
+div:hoverhover
+{
+color:white;
+background-color:tomato;
+transform: skew(70deg) rotate(30deg)
+}
+
+
+================
+
+<marquee bgcolor=yellow width=500 behavior="scroll"  scrollamount=1 >Welcome to Home page</marquee> 
+
+
+<video src="KIKI.mp4" controls height="100" poster="food.jpg"></video>
+
+<audio  src="KIKI.mp4" controls ></audio>
+
+<iframe src="https://www.youtube.com/embed/dnW8nvFC8IU"></iframe>
+
+
+================
+
+
+<body>
+
+<h1 >welcome to css training!!!</h1>
+
+<h1>CSS Rocks!!</h1>
+<h1>CSS Rocks!!</h1>
+<h2>CSS Rocks!!</h2>
+<h2>CSS Rocks!!</h2>
+
+-----------------------------------------------------------
+3.external stylesheet
+
+<link href="style.css" rel="stylesheet">
+
+
+
+====================--------------------------------------------
+
+id selector
+
+#a{
+    color:blue;
+    background: yellow;
+}
+
+#b
+{
+    color:green;
+    background: orange;
+}
+
+
+
+===================================
+
+1. inline
+<h1 style="color:cornflowerblue;background: red; text-align: center;" >welcome to css training!!!</h1>
+
+<h1 style="color:cornflowerblue;background: red; text-align: center">CSS Rocks!!</h1>
+
+-----------------------------------------------
+2. embeded -(internal stylesheet)
+
+
+<style>
+    h1{
+        color:blue;
+        background: yellow;
+    }
+    h2
+    {
+        color:orange;
+        background: green;
+    }
+</style>
+
+
+</head>
+
+<body>
+
+<h1 >welcome to css training!!!</h1>
+
+<h1>CSS Rocks!!</h1>
+<h1>CSS Rocks!!</h1>
+<h2>CSS Rocks!!</h2>
+<h2>CSS Rocks!!</h2>
+
+-----------------------------------------------------------
+3.external stylesheet
+
+<link href="style.css" rel="stylesheet">
+
+
+
+====================--------------------------------------------
+
+id selector
+
+#a{
+    color:blue;
+    background: yellow;
+}
+
+#b
+{
+    color:green;
+    background: orange;
+}
+
+
+
+<h1 id="a">hello </h1>
+
+===================================
+
+class selector
+-----------------
+.hi
+{
+    color:blueviolet;
+    background: yellowgreen;
+}
+
+<h1 class="hi">hello </h1>
+
+position selector
+--------------------
+nav a{
+    color:green;
+    background: red;
+}
+
+
+
+
+===============================================================
+
+body
+{
+background-attachment : fixed
+}
+
+input
+{
+border: 3px solid blue
+}
+
+====================================================================================================
+
+h1
+{
+color:red;
+background-color: yellow;
+
+
+}
+
+div{
+color:red;
+background-color: orange;
+height:300px;
+width: 300px;
+position: absolute;
+animation: myfirst 10s ;
+}
+
+
+@keyframes myfirst
+{
+0% {background:red; left:0px; top:0px;}
+25% {background:yellow; left:800px; top:0px;}
+50% {background:blue; left:800px; top:800px;}
+75% {background:green; left:0px; top:800px;}
+100% {background:red; left:0px; top:0px;}
+}
+
+==========================
+
+    <link rel="stylesheet" href="desktop.css">
+    <link rel="stylesheet" media='screen and (max-width: 500px)' href="tab.css">
+    <link href="myprint.css" media="print" rel="stylesheet">
+    
+    
+    ==============
+    
+    
+1.menu page -> instead of html use css + 
+
+print (custom), mobile(custom), desktop (bootstrap)
+
+
+2. create login screen
+
+[textbox]
+[textbox]
+
+[button]
+
+3. rotate image in all the four direction (animations)
+
+================================================
+
+
+
+login page
+
+
+<div style="width: 500px;margin-left: 500px;">
+ <label>Enter Username</label> <input type="text" class="form-control">
+ <label>Enter Password</label> <input type="text" class="form-control">
+
+ <input type="button" class="btn btn-success" value="Login">
+
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
